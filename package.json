@@ -1,0 +1,9 @@
+{
+  "name": "javachrist-mail-kit",
+  "private": true,
+  "type": "module",
+  "description": "Templates d'emails d'authentification pour les applications JavaChrist.",
+  "scripts": {
+    "generate": "node src/generator/generate.js"
+  }
+}
